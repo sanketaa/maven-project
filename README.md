@@ -116,7 +116,7 @@ This repository is useful for demonstrating the basic inputs to a Jenkins Java b
 1. Check out source code from Git.
 2. Invoke the Maven lifecycle.
 3. Run automated tests.
-4. collect test and quality reports.
+4. Collect test and quality reports.
 5. Archive the JAR and WAR build artifacts.
 
 It shows familiarity with repeatable builds, modular project organization, automated validation, and deployable artifact generation.
